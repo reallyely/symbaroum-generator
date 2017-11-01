@@ -1,0 +1,18 @@
+div.search {
+  font-size: 1.5em;
+
+}
+
+input#search-bar {
+  background-color: transparent;
+  border: transparent;
+  border-bottom: thick goldenrod solid;
+  color: gold;
+  width: 50%;
+  padding: .5em;
+  margin: 1em;
+  font-size: 1.5em;
+}
+input:focus {
+  outline: none;
+}
